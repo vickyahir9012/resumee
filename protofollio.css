@@ -64,7 +64,7 @@ section {
 
 
 body {
-    background-image: url(image/banner.jpg);
+    background-image: url(banner.jpg);
     /* background: rgb(0, 36, 50); */
     overflow-x: hidden;
     padding-left: 35rem;
